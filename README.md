@@ -8,7 +8,7 @@ Use Chrome or Edge. Safari and Firefox work too (see "Your posts" below).
 
 ## The first time
 
-1. Open the link above. There's nothing to set up: headlines are set in Geist Mono, so no font is needed.
+1. Open the link above. Pave Slab and the other Pave fonts are built in, so you can start straight away.
 2. Optional: put the studio in your Dock or Start menu. In Chrome or Edge, choose the install icon at the right end of the address bar, then Install. It then opens in its own window, even with no internet.
 
 ## Make a post
@@ -22,9 +22,9 @@ Drop a photo on the post (or try a sample), type one line, then choose **Export*
 - **Copy link** sends one post without its photo. A teammate who opens the link gets it in their Library.
 - Safari clears a site's saved data if you don't open it for about a week. If you use Safari, use Share file now and then to keep a copy.
 
-## Fonts
+## Pave Slab is for Quickbase only
 
-This public copy sets headlines in Geist Mono, which is free to share. It doesn't carry Pave Slab, which is licensed for Quickbase only.
+The site carries Pave Slab so everyone at Quickbase can use it without setup. Please share the link only inside Quickbase.
 
 ---
 
